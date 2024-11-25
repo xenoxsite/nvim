@@ -1,0 +1,1 @@
+{"cmp":{"body":["\/*"," * author: samiulbasirfahim"," * date: $CURRENT_DATE-$CURRENT_MONTH-$CURRENT_YEAR","*\/","","#include <iostream>","","void solve() {","    $1","}","","int main(void) {","\tint n;","\tstd::cin >> n;","\twhile (n--)","\t\tsolve();","","    return 0;","}"],"prefix":"cmp"}}
